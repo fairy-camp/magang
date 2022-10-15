@@ -1,0 +1,4 @@
+[23-Jan-2021 11:45:54 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Siswa_model::getAllSiswa() in /home/ponpessm/public_html/ppdb.ponpes-smksa.sch.id/application/models/Siswa_model.php on line 151
+[23-Jan-2021 11:47:17 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Siswa_model::getAllSiswa() in /home/ponpessm/public_html/ppdb.ponpes-smksa.sch.id/application/models/Siswa_model.php on line 151
+[23-Jan-2021 11:47:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Siswa_model::getAllSiswa() in /home/ponpessm/public_html/ppdb.ponpes-smksa.sch.id/application/models/Siswa_model.php on line 151
+[23-Jan-2021 11:47:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Siswa_model::getAllSiswa() in /home/ponpessm/public_html/ppdb.ponpes-smksa.sch.id/application/models/Siswa_model.php on line 151
